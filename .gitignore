@@ -1,0 +1,16 @@
+# Local docs and notes
+docs/
+claude.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated images (keep notebooks, ignore outputs)
+*.png
