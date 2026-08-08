@@ -2,6 +2,8 @@
 docs/
 claude.md
 
+segments/segment_*/data/
+
 # Python
 __pycache__/
 *.py[cod]
